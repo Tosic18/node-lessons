@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "bl": "^6.1.6"
+    "bl": "^6.1.6",
+    "through2-map": "^4.0.0"
   }
 }
